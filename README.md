@@ -1,3 +1,3 @@
 # quizzler
 
-A new Flutter project.
+Flutter Application that generates a trivia-like quiz game with true or false questions.
